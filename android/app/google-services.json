@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22338640474",
+    "project_id": "fluttertarde",
+    "storage_bucket": "fluttertarde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22338640474:android:898e5d1a132b6b54d05663",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja2.flutterdart10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmVecpeVcaMP3TNnDyqH1C8aukXZQ8MXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
